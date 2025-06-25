@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-    const API_URL = 'http://127.0.0.1:3000';
+    const API_URL = '';
     let usuarioLogado = null;
     let notaSelecionada = 0;
 
