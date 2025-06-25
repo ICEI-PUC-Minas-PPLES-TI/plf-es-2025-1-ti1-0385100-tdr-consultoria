@@ -433,7 +433,7 @@ Esta seção apresenta todos os detalhes da solução criada no projeto.
 
 O vídeo a seguir traz uma apresentação do problema que a equipe está tratando e a proposta de solução. ⚠️ EXEMPLO ⚠️
 
-[![Vídeo do projeto](https://youtu.be/jin2JyZuZNI)]
+[Vídeo do projeto](https://youtu.be/jin2JyZuZNI)]
 
 ## Funcionalidades
 
